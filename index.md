@@ -2,7 +2,7 @@
 
 ~~delete~~
 
-[](assest/test.png)
+![img](assest/test.png)
 
 ## Welcome to GitHub Pages
 
