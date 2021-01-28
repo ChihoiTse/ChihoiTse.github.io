@@ -40,6 +40,6 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
 
-### public note
-1.[百度搜索技巧](./百度搜索/百度搜索实用技巧.md)
-2.[谷歌搜索技巧](./谷歌搜索/谷歌搜索技巧.md)
+### public note share
+1. [百度搜索技巧](./百度搜索/百度搜索实用技巧.md)
+2. [谷歌搜索技巧](./谷歌搜索/谷歌搜索技巧.md)
