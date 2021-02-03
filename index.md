@@ -1,5 +1,5 @@
 
-## Welcome to GitHub Pages
+## Welcome to ChihoiTse GitHub Pages
 
 ![img](assest/test.png)
 
@@ -41,5 +41,6 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 
 ### public note share
-1. [百度搜索技巧](./百度搜索/百度搜索实用技巧.md)
-2. [谷歌搜索技巧](./谷歌搜索/谷歌搜索技巧.md)
+1. [百度搜索技巧](./笔记/百度搜索/百度搜索实用技巧.md)
+2. [谷歌搜索技巧](./笔记/谷歌搜索/谷歌搜索技巧.md)
+3. [微信直连支付](笔记/微信直连支付/小程序接入微信支付(Java版).md)
