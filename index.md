@@ -49,5 +49,5 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 6. [Java内置的函数式接口介绍和使用](笔记/函数式编程/3.Java内置的函数式接口介绍和使用.md)
 7. [方法引用和构造器引用和数组引用](笔记/函数式编程/4.方法引用和构造器引用和数组引用.md)
 8. [StreamAPI](笔记/函数式编程/5.StreamAPI.md)
-9. [Optional类](笔记/函数式编程/6.Optional类.md)
+9. [Optional类](笔记/函数式编程/6.Optional类.md)<br/>
 10.[数据库系统原理](笔记/数据库系统原理/数据库系统原理.md)
